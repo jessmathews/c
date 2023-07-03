@@ -2,9 +2,9 @@
 #include <stdlib.h>  
 
 
-int main(){  
-int a[8],n,i;    
-system ("cls");  
+int main() 
+{  
+int a[8],n,i; 
 printf("Enter a decimal:");    
 scanf("%d",&n);    
 for(i=0;n>0;i++)    
